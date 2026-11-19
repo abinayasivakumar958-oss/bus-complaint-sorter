@@ -1,0 +1,42 @@
+BUS COMPLAINT SORTER SUMMARY
+===================================
+
+Total complaints: 21
+Urgent complaints: 8
+
+CATEGORY REPORT
+delay: 4
+crowding: 3
+driver: 4
+vehicle: 5
+route_request: 4
+other: 1
+
+ROUTE REPORT
+Route 4 - Medavakkam: 2
+Route 7 - Chromepet: 2
+Route 2 - Velachery: 2
+Route 5 - Guindy: 2
+Route 3 - Porur: 2
+Route 8 - Pallikaranai: 1
+Route 6 - Adyar: 1
+Route 9 - Thoraipakkam: 1
+Route 1 - Tambaram: 1
+Route 10 - Sholinganallur: 1
+Route 11 - Perungudi: 1
+Route 12 - Pallavaram: 1
+
+SAFETY COMPLAINTS
+C02 - Driver on route 7 was talking on the phone while driving
+C03 - Bus 2 is so crowded that students are standing on the footboard
+C05 - The door on bus 5 does not close properly
+C08 - The driver was driving rashly on route 6
+C10 - There is smoke coming from bus 9
+C14 - The tyre of bus 12 looks damaged
+C17 - Bus 7 nearly hit another vehicle near the junction
+C21 - Students are hanging on the footboard of route 5 bus
+
+MANUAL REVIEW REQUIRED
+None
+
+Transport officer must review safety complaints and make all final decisions.

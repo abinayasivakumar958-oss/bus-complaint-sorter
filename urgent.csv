@@ -1,0 +1,9 @@
+id,date,route,area,complaint,summary
+C02,2026-10-01,7,Chromepet,Driver on route 7 was talking on the phone while driving,Driver on route 7 used phone while driving
+C03,2026-10-02,2,Velachery,Bus 2 is so crowded that students are standing on the footboard,"Bus 2 overcrowded, students standing on footboard"
+C05,2026-10-03,5,Guindy,The door on bus 5 does not close properly,Door on bus 5 does not close properly
+C08,2026-10-04,6,Adyar,The driver was driving rashly on route 6,Driver rashly driving on route 6
+C10,2026-10-05,9,Thoraipakkam,There is smoke coming from bus 9,Smoke coming from bus 9
+C14,2026-10-07,12,Pallavaram,The tyre of bus 12 looks damaged,Tyre of bus 12 looks damaged
+C17,2026-10-09,7,Chromepet,Bus 7 nearly hit another vehicle near the junction,Bus 7 nearly hit another vehicle near junction
+C21,2026-10-11,5,Guindy,Students are hanging on the footboard of route 5 bus,Students hanging on footboard of route 5 bus

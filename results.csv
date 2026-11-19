@@ -1,0 +1,22 @@
+id,category,urgent,route,summary
+C01,delay,false,4,Route 4 bus was 25 minutes late again
+C02,driver,true,7,Driver on route 7 used phone while driving
+C03,crowding,true,2,"Bus 2 overcrowded, students standing on footboard"
+C04,route_request,false,,Request stop near library
+C05,vehicle,true,5,Door on bus 5 does not close properly
+C06,delay,false,3,Bus 3 always late in the morning
+C07,crowding,false,8,Bus 8 overcrowded with many students
+C08,driver,true,6,Driver rashly driving on route 6
+C09,route_request,false,,Add bus stop near main junction
+C10,vehicle,true,9,Smoke coming from bus 9
+C11,vehicle,false,1,Bus 1 AC not working
+C12,delay,false,10,Route 10 bus arrived 30 minutes late
+C13,crowding,false,11,Bus 11 overcrowded every evening
+C14,vehicle,true,12,Tyre of bus 12 looks damaged
+C15,route_request,false,3,Request to extend route 3 to our area
+C16,driver,false,4,Driver rude to students
+C17,driver,true,7,Bus 7 nearly hit another vehicle near junction
+C18,vehicle,false,2,Bus 2 seat is broken
+C19,delay,false,,Bus is very late daily
+C20,route_request,false,,Improve morning bus timing
+C21,other,true,5,Students hanging on footboard of route 5 bus
